@@ -5,6 +5,7 @@ header("Expires: 0"); // Proxies.
 ?>
 <H1>Version A </H1>
 <H3> Hello - Abu Dhabi and Dubai, Demo on 30th August </H1>
+<H3> Let us examine changes to code </H1>
 <img src="a-abtesting.png">
 <div>
 <?php 
