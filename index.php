@@ -4,7 +4,7 @@ header("Pragma: no-cache"); // HTTP 1.0.
 header("Expires: 0"); // Proxies.
 ?>
 <H1>Version A </H1>
-<H3> Hello - Ankara, Demo on 12th June </H1>
+<H3> Hello - Istanbul, Demo on 12th June </H1>
 <img src="a-abtesting.png">
 <div>
 <?php 
